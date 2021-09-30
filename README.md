@@ -1,2 +1,2 @@
 # RichText-Edition
-Um programa Rich Tex em python
+Um programa Rich Text em python
